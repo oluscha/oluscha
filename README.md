@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @oluscha
-- 👀 I’m interested in data science, including econometrics/statistics. As for programming, now I am deeping into C, have already became good at SQL and R. Also I am mastering Python.
-- 📫 How to reach me: olgakalinina.msu@gmail.com or telegram: @olyamsu
+Привет! 
+Меня зовут Оля. 
+Работаю в Сбере, учусь в Школе 21 (школа программирования при Сбере) и в магистратуре "Анализ данных в экономике" на базе Экономического Факультета и ВМК МГУ имени М. В. Ломоносова.
 
-Welcome to my codings!
+Интересуюсь машинным обучением. Здесь мой наработки.
+Можете связаться со мной по почте: olgakalinina.msu@gmail.com или телеграм: @olusha21
